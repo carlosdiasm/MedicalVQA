@@ -12,7 +12,7 @@ The structure of this work is as follows: first, a theoretical framework on VQA 
 Next, in Section 3, we present the flowchart of the model architecture, the origin of the data used, the pre-trained models, and their adjustments (fine-tuning). Finally, in Section 4, we present the model results, including the choice of hyperparameters, loss metrics, and result visualization.
 
 ## Networks
-You can find the models in the *models* folder
+You can find the models in the **Networks** folder
 
 ## Data and pre-trained models
 Data and the pre-trained models can be found in google drive: https://drive.google.com/drive/folders/1Sfy5Rafvk53Numl8TzYUCrhVq3WvzuJL?usp=sharing
